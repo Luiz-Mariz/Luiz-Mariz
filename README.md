@@ -35,6 +35,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/Luiz-Mariz/Luiz-Mariz/blob/output/github-contribution-grid-snake.svg)
 
 ###
